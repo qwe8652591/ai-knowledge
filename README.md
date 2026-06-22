@@ -16,6 +16,7 @@ AI agent harness / software-development harness 研究资料库。
 - [harness-research/project-analyses/README.md](harness-research/project-analyses/README.md)：第一批源码项目逐项分析。
 - [harness-research/software-development-harness/README.md](harness-research/software-development-harness/README.md)：软件开发层 harness 专题。
 - [harness-research/emerging-hot-projects/README.md](harness-research/emerging-hot-projects/README.md)：OpenClaw、Hermes Agent 等最新/热门项目补充研究。
+- [loop-engineering-research/README.md](loop-engineering-research/README.md)：Loop Engineering 专题，研究 Ralph、Codex Goal、Claude hooks、worktree/subagent/eval feedback loop 等模式。
 
 ## 源码缓存说明
 
@@ -29,3 +30,5 @@ AI agent harness / software-development harness 研究资料库。
 - [harness-research/software-development-harness/repo-download-manifest.json](harness-research/software-development-harness/repo-download-manifest.json)
 - [harness-research/emerging-hot-projects/source-repos.md](harness-research/emerging-hot-projects/source-repos.md)
 - [harness-research/emerging-hot-projects/repo-download-manifest.json](harness-research/emerging-hot-projects/repo-download-manifest.json)
+- [loop-engineering-research/source-repos.md](loop-engineering-research/source-repos.md)
+- [loop-engineering-research/repo-download-manifest.json](loop-engineering-research/repo-download-manifest.json)
