@@ -1,0 +1,12 @@
+# Local clone cache of third-party repositories used for research.
+# The download manifests under harness-research/ preserve URLs and commits.
+repos/
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Temporary publish/check directories
+.publish-*/

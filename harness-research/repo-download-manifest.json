@@ -1,0 +1,200 @@
+﻿[
+    {
+        "name":  "openai-codex",
+        "url":  "https://github.com/openai/codex",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\openai-codex",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  5140,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "openai-evals",
+        "url":  "https://github.com/openai/evals",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\openai-evals",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  1728,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "claude-agent-sdk-python",
+        "url":  "https://github.com/anthropics/claude-agent-sdk-python",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\claude-agent-sdk-python",
+        "priority":  "P0",
+        "download_method":  "git-shallow",
+        "exists":  true,
+        "file_count":  128,
+        "git":  true,
+        "commit":  "7297657"
+    },
+    {
+        "name":  "claude-agent-sdk-typescript",
+        "url":  "https://github.com/anthropics/claude-agent-sdk-typescript",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\claude-agent-sdk-typescript",
+        "priority":  "P1",
+        "download_method":  "git-shallow",
+        "exists":  true,
+        "file_count":  33,
+        "git":  true,
+        "commit":  "fc84d93"
+    },
+    {
+        "name":  "claude-agent-sdk-demos",
+        "url":  "https://github.com/anthropics/claude-agent-sdk-demos",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\claude-agent-sdk-demos",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  269,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "cwc-long-running-agents",
+        "url":  "https://github.com/anthropics/cwc-long-running-agents",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\cwc-long-running-agents",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  12,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "inspect_ai",
+        "url":  "https://github.com/UKGovernmentBEIS/inspect_ai",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\inspect_ai",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  1911,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "inspect_evals",
+        "url":  "https://github.com/UKGovernmentBEIS/inspect_evals",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\inspect_evals",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  3839,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "swe-bench",
+        "url":  "https://github.com/swe-bench/SWE-bench",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\swe-bench",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  660,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "lm-evaluation-harness",
+        "url":  "https://github.com/EleutherAI/lm-evaluation-harness",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\lm-evaluation-harness",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  16219,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "terminal-bench",
+        "url":  "https://github.com/harbor-framework/terminal-bench",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\terminal-bench",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  2474,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "harbor",
+        "url":  "https://github.com/harbor-framework/harbor",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\harbor",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  2746,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "deepagents",
+        "url":  "https://github.com/langchain-ai/deepagents",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\deepagents",
+        "priority":  "P0",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  980,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "openharness",
+        "url":  "https://github.com/HKUDS/OpenHarness",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\openharness",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  479,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "openhands",
+        "url":  "https://github.com/All-Hands-AI/OpenHands",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\openhands",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  2440,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "software-agent-sdk",
+        "url":  "https://github.com/OpenHands/software-agent-sdk",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\software-agent-sdk",
+        "priority":  "P1",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  1339,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "google-adk-python",
+        "url":  "https://github.com/google/adk-python",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\google-adk-python",
+        "priority":  "P2",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  2156,
+        "git":  false,
+        "commit":  null
+    },
+    {
+        "name":  "microsoft-autogen",
+        "url":  "https://github.com/microsoft/autogen",
+        "local_path":  "D:\\code\\local\\research\\harness\\repos\\microsoft-autogen",
+        "priority":  "P2",
+        "download_method":  "zip",
+        "exists":  true,
+        "file_count":  1837,
+        "git":  false,
+        "commit":  null
+    }
+]

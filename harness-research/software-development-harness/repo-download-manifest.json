@@ -1,0 +1,84 @@
+{
+  "downloaded_at": "2026-06-22",
+  "method": "git clone --depth 1 --filter=blob:none",
+  "root": "D:\\code\\local\\research\\harness\\repos\\software-development-harness",
+  "repositories": [
+    {
+      "name": "openai-codex-action",
+      "title": "OpenAI Codex Action",
+      "url": "https://github.com/openai/codex-action",
+      "branch": "main",
+      "commit": "9cdb6f3"
+    },
+    {
+      "name": "anthropic-claude-code-action",
+      "title": "Anthropic Claude Code Action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "branch": "main",
+      "commit": "2fee155"
+    },
+    {
+      "name": "bloop-vibe-kanban",
+      "title": "Vibe Kanban",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "branch": "main",
+      "commit": "4deb7ec"
+    },
+    {
+      "name": "smtg-claude-squad",
+      "title": "Claude Squad",
+      "url": "https://github.com/smtg-ai/claude-squad",
+      "branch": "main",
+      "commit": "5a604f7"
+    },
+    {
+      "name": "stravu-crystal",
+      "title": "Crystal",
+      "url": "https://github.com/stravu/crystal",
+      "branch": "main",
+      "commit": "1e18e0b"
+    },
+    {
+      "name": "task-master-ai",
+      "title": "Task Master AI",
+      "url": "https://github.com/eyaltoledano/claude-task-master",
+      "branch": "main",
+      "commit": "c0c98d3"
+    },
+    {
+      "name": "bmad-method",
+      "title": "BMAD Method",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "branch": "main",
+      "commit": "e600181"
+    },
+    {
+      "name": "superclaude-framework",
+      "title": "SuperClaude Framework",
+      "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+      "branch": "master",
+      "commit": "226c45c"
+    },
+    {
+      "name": "ruflo-claude-flow",
+      "title": "Ruflo / Claude Flow",
+      "url": "https://github.com/ruvnet/ruflo",
+      "branch": "main",
+      "commit": "9c28fe0"
+    },
+    {
+      "name": "obra-superpowers",
+      "title": "Superpowers",
+      "url": "https://github.com/obra/Superpowers",
+      "branch": "main",
+      "commit": "896224c"
+    },
+    {
+      "name": "pr-agent",
+      "title": "PR-Agent",
+      "url": "https://github.com/qodo-ai/pr-agent",
+      "branch": "main",
+      "commit": "3e9dd1d"
+    }
+  ]
+}
